@@ -1,6 +1,6 @@
 # Sizwe Coffee- SQL Sales and Profitability Analysis
 ## Project Overview
-This project analsyse the sales and financial performance of Sizwe Cofee (Pty) Ltd using SQL in Databricks
+This project analyse the sales and financial performance of Sizwe Cofee (Pty) Ltd using SQL in Databricks
 
 Sizwe Coffee is a coffee roasting and wholesale supply company based in Isando , Johannesburg, with a second distribution centre, in Epping, Capetown. The company serves approximately 1400 business customers, including grocery chains, restaurants,independent cafes, hotels and offices.
 
